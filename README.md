@@ -2,6 +2,10 @@
 
 A new Flutter project for a app that tracks your personal expenses.
 
+## Screenshots
+
+<img src="sc1.png" width="256">&nbsp;   &nbsp;   &nbsp;  <img src="sc2.png" width="256">   &nbsp;   &nbsp;   <img src="sc3.png" width="256">   &nbsp;   &nbsp;   <img src="sc4.png" width="256">   &nbsp;   &nbsp;   <img src="sc5.png" width="256">   &nbsp;   &nbsp;   <img src="sc6.png" width="256">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
